@@ -345,3 +345,77 @@ Como norma general, se espera que todo el código desarrollado por los miembros 
 ![creation-of-repository-lp](assets/img/creacion-repositorio-frontendapp.png)
 2. Agregar a participantes:
 ![adding-members-screenshot-lp](assets/img/miembros_repo.png)
+
+## 5.2. Landing Page, Services & Applications Implementation.
+### 5.2.1. Sprint 1
+#### 5.2.1.1. Sprint Planning 1.
+#### 5.2.1.2. Sprint Backlog 1.
+#### 5.2.1.3. Development Evidence for Sprint Review.
+#### 5.2.1.4. Testing Suite Evidence for Sprint Review.
+#### 5.2.1.5. Execution Evidence for Sprint Review.
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review.
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review.
+#### 5.2.1.8. Team Collaboration Insights during Sprint.
+### 5.2.2. Sprint 2
+#### 5.2.2.1.Sprint Planning 2.
+#### 5.2.2.2.Sprint Backlog 2.
+#### 5.2.2.3.Development Evidence for Sprint Review.
+#### 5.2.2.4.Testing Suite Evidence for Sprint Review.
+#### 5.2.2.5.Execution Evidence for Sprint Review.
+#### 5.2.2.6.Services Documentation Evidence for Sprint Review.
+## Coach
+
+![Evidencia7](assets/img/endpoint-coach-controller.png)
+
+## Fitness Plan
+
+![Evidencia8](assets/img/endpoint-fitnessplan-controller.png)
+
+## User
+
+![Evidencia9](assets/img/endpoint-user-controller.png)
+
+## Profile
+
+![Evidencia10](assets/img/endpoint-profile-controller.png)
+
+- - -
+
+### 5.2.3. Sprint 3
+#### 5.2.3.1.Sprint Planning 2.
+#### 5.2.3.2.Sprint Backlog 3.
+#### 5.2.3.3.Development Evidence for Sprint Review.
+#### 5.2.3.4.Testing Suite Evidence for Sprint Review.
+#### 5.2.3.5.Execution Evidence for Sprint Review.
+#### 5.2.3.6.Services Documentation Evidence for Sprint Review.
+#### 5.2.3.7.Software Deployment Evidence for Sprint Review.
+Para el despliegue de nuestra Front End App, se usó: 
+
+![Netlify](assets/img/img_9.png)
+![Netlify2](assets/img/img_10.png)
+
+Para el despliegue de nuestra aPI se usó: [SmarterAsp](https://www.smarterasp.net/)
+
+![SmarterASP](assets/img/img_8.png)
+
+#### 5.2.3.8.Team Collaboration Insights during Sprint.
+### 5.2.4. Sprint 4
+#### 5.2.4.1. Sprint Planning 4.
+#### 5.2.4.2. Sprint Backlog 4.
+#### 5.2.4.3. Development Evidence for Sprint Review.
+#### 5.2.4.4. Testing Suite Evidence for Sprint Review.
+#### 5.2.4.5. Execution Evidence for Sprint Review.
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review.
+#### 5.2.4.7. Software Deployment Evidence for Sprint Review.
+### Fronted Deployment
+![Netlify](assets/img/DP_Front.png)
+![Netlify2](assets/img/DP_Front2.png)
+### Backend Deployment
+![Image1](assets/img/DP01.jpg)
+![Image2](assets/img/DP02.jpg)
+### Database Deployment
+![Image3](assets/img/DP03.jpg)
+![Image4](assets/img/DP04.jpg)
+![Image5](assets/img/DP05.jpg)
+![Image6](assets/img/DP06.jpg)
+#### 5.2.4.8. Team Collaboration Insights during Sprint.
