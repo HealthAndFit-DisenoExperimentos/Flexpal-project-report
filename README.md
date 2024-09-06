@@ -312,9 +312,9 @@ La especificación de requisitos será una etapa crucial en nuestro trabajo, ya 
 El mapeo de escenarios "To-Be" nos permite visualizar cómo será el proceso o flujo de trabajo deseado en el futuro después de implementar las mejoras propuestas. Nos ayuda a identificar los cambios necesarios en los procesos actuales y a diseñar soluciones para optimizarlos. Al crear escenarios "To-Be", podemos visualizar claramente cómo se verá el proceso una vez que se implementen las mejoras, lo que nos permite comunicar mejor la visión del proyecto y alinear a todas las partes interesadas en torno a los objetivos comunes. Esto facilita la planificación y la implementación efectiva de los cambios para lograr los resultados deseados.
 <br><br>
 - To-Be del segmento objetivo usuario:
-![To-Be Scenario Mapping User](assets/img/WA_To_be.jpg)
+![To-Be Scenario Mapping User](https://github.com/user-attachments/assets/f42abbaa-817b-44ed-9b2e-ed2165a0f444)
 - To-Be del segmento objetivo coach:
-![To-Be Scenario Mapping Coach](assets/img/WA_To_be2.jpg)
+![To-Be Scenario Mapping Coach](https://github.com/user-attachments/assets/8f22de95-7946-41d8-aad6-664e751f91fd)
 ## 3.2. User Stories.
 Las User Stories, o historias de usuario, son descripciones breves y centradas en el usuario de una funcionalidad específica del producto. Nos ayudan a comprender las necesidades y expectativas de nuestros usuarios al abordar qué quieren lograr y por qué. Al escribir User Stories, nos centramos en el valor que proporcionará la funcionalidad para el usuario y en cómo la utilizará en su contexto. Esto nos permite priorizar las características del producto de acuerdo con su importancia para el usuario y desarrollar soluciones que realmente resuelvan sus problemas y satisfagan sus necesidades.
 <br>
