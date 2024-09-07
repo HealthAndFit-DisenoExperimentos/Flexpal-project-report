@@ -39,9 +39,9 @@
 | 2       | 30/08/2024 | -        | - Implementó los componenetes para las vistas de la aplicación web. <br> - Actualizó Web Applications UX/UI Design, Web Applications Prototyping, Domain-Driven Software Architecture.                                                                                                                                  |
 | 2       | 30/08/2024 | -   | - Realizó código en html, css y javascript para el desarrollo de componentes en vue. <br> - Implementó APIS en json server                                                                                                                                                                                              |
 | 2       | 30/08/2024 | -    | - Realizo feats utilizando vue como framework <br> Actualizó user stories                                                                                                                                                                                                                                               |
-| 3       | 01/09/2024 | -   | - Ayudó en la contribución al bounded context de counseling, en la parte de routines. <br> - Se encargó del despliegue de la web application.                                                                                                                                                                           |
-| 3       | 01/09/2024 | -  | - Apoyó en el desarrollo de los bounded countext profiles                                                                                                                                                                                                                                                               |
-| 3       | 01/09/2024 | -      | - Implementó nuvas funcionas en la web application y apoyó en el desarrollo de profiles del web service                                                                                                                                                                                                                 |
+| 3       | 01/09/2024 | - Sebastián De Las Casas  | - Ayudó en la contribución al bounded context de counseling, en la parte de routines. <br> - Se encargó del despliegue de la web application.                                                                                                                                                                           |
+| 3       | 01/09/2024 | - Sebastián De Las Casas  | - Apoyó en el desarrollo de los bounded countext profiles                                                                                                                                                                                                                                                               |
+| 3       | 01/09/2024 | - Sebastián De Las Casas  | - Implementó nuvas funcionas en la web application y apoyó en el desarrollo de profiles del web service                                                                                                                                                                                                                 |
 | 3       | 01/09/2024 | - Renato Reyes    | - Implementó el bounded context counseling                                                                                                                                                                                                                                                                              |
 | 3       | 02/09/2024 | - Miguel Carpio    | - Encargado del bounded context subscription en la parte de BackEnd, siguió estructura DDD.                                                                                                                                                                                                                             |
 | 3       | 02/09/2024 | - Miguel Carpio  | - Encargado de desarrollar  los bounded context de iam y profiles                                                                                                                                                                                                                                                       |
@@ -63,7 +63,7 @@ Para el desarrollo del informe correspondiente a la entrega TB1, se estableció 
 |Renato Reyes|Capitulo I,Diseño de entrevistas. Diagrama de clases. Diagrama de contexto, componentes y contenedores, Information Architecture. User Stories. Diagrama de base de datos.|
 |----|Impact Mapping, registro y análisis de entrevistas. User Task Matrix. As-Is To-be Scenarios. Empathy Mapping. Technical User Stories. User Stories. Product Backlog. Bibliografía.|
 |Miguel Carpio|Antecedentes y problemática 5W y 2H, Segmentos Objetivos, Análisis de competidores, User Stories, Product Backlog, Conclusiones.|
-|---|Services & Applications implementation, Software Deployment Configuration, User Stories, Product Backlog.|
+|Sebastián De Las Casas|Services & Applications implementation, Software Deployment Configuration, User Stories, Product Backlog.|
 
 El proceso de colaboración en el informe se realizó mediante commits constantes al repositorio de la organización.
 
@@ -77,6 +77,7 @@ Los integrantes son:
 * Jessica Comettant (Mei0202)
 * Renato German Reyes Valenzuela (Mei0202)
 * Miguel Carpio Cornejo (LordSack)
+* Sebastián De Las Casas Latour (U202213553)
 
 Se explican las ramas más prominentes:
 
