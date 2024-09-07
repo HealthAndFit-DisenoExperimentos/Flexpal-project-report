@@ -9,11 +9,10 @@ La gestión de la configuración del software es crucial para nuestro trabajo, y
       [Link De Registro o Inicio De Sesión](https://trello.com/es)<br>
       Imagen para mostrar evidencia de uso:
       ![trello-image-grupo](assets/img/project-management-trello.png)
-      *  ### Microsoft Teams
+      *  ### Google Meet
        una plataforma unificada de comunicación y colaboración que combina chat persistente en el lugar de trabajo, reuniones de video, almacenamiento de archivos e integración de aplicaciones. <br>
-        [Link De Registro o Inicio De Sesión](https://www.microsoft.com/es-pe/)
-      Imagen para mostrar evidencia de uso:
-      ![microsoft-teams-image-userpersona](assets/img/evidencia-microsoft-teams.png)
+        [Link De Registro o Inicio De Sesión](https://meet.google.com/landing)
+      
 
 - ### Requirement Management:
     * ### Miro:
