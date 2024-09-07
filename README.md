@@ -76,7 +76,7 @@ Los integrantes son:
 
 * Jessica Comettant (Mei0202)
 * Renato German Reyes Valenzuela (Mei0202)
-* Miguel Carpio Cornejo (LordSack)
+* Miguel Carpio Cornejo (u20221c360)
 * Sebastián De Las Casas Latour (U202213553)
 
 Se explican las ramas más prominentes:
