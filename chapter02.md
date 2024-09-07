@@ -1,19 +1,21 @@
 # **Capítulo II:  Requirements Elicitation & Analysis**
-La recolección y análisis de requisitos es una etapa fundamental en el desarrollo de cualquier proyecto. Este proceso implica identificar, comprender y documentar las necesidades y expectativas de los stakeholders, así como los objetivos y restricciones del proyecto. Mediante diversas técnicas como entrevistas, encuestas y talleres de trabajo colaborativo, se busca obtener una comprensión clara y detallada de lo que se espera lograr con el proyecto. El análisis de estos requisitos permite establecer una base sólida para el diseño y desarrollo posterior, asegurando que el producto final satisfaga las necesidades del usuario y cumpla con los objetivos del negocio.
+La recolección y el análisis de requisitos son etapas esenciales del desarrollo de cualquier proyecto. Este proceso implica la identificación, comprensión y documentación de las necesidades y expectativas de los interesados, así como los objetivos y limitaciones del proyecto. Se busca obtener una comprensión clara y detallada de lo que se espera lograr con el proyecto mediante técnicas como entrevistas, encuestas y talleres de trabajo colaborativo. El análisis de estos requisitos permite establecer una base sólida para el diseño y desarrollo posterior, asegurándose de que el producto final satisfaga las necesidades del usuario y cumpla con los objetivos del negocio.
+
 ## 2.1. Competidores.
 En la siguiente sección se presentarán los competidores, un análisis de las fortalezas de nuestro servicio frente a estas.
 <br><br>
 <img src="assets/img/MyFitnessPal_Logo+.png" alt="MFPlogo" width="200" height="200">   
 
-***MyFitnessPal:*** Es una de las aplicaciones líderes en el seguimiento de alimentos y ejercicio físico. Ofrece una amplia base de datos de alimentos y permite a los usuarios realizar un seguimiento de su ingesta calórica y actividad física para ayudarles a alcanzar sus objetivos de salud y fitness. Además del seguimiento básico, MyFitnessPal también proporciona herramientas para establecer metas personalizadas, crear planes de alimentación y recibir apoyo de una comunidad activa de usuarios.
+***MyFitnessPal:*** Es una de las mejores aplicaciones para el seguimiento de alimentos y ejercicio. Ofrece una amplia base de datos de alimentos y permite a los usuarios realizar un seguimiento de su ingesta calórica y actividad física para ayudarlos a alcanzar sus objetivos de salud y fitness. Además del seguimiento básico, MyFitnessPal ofrece herramientas para establecer metas personalizadas, planificar planes de alimentación y encontrar apoyo de los usuarios.
 
 <img src="assets/img/Noom_logo.png" alt="NOOMlogo" width="200" height="200">   
 
-***Noom:*** Es una aplicación de coaching en salud y bienestar que se centra en la pérdida de peso y el cambio de hábitos. Utiliza un enfoque basado en la psicología y la tecnología para ayudar a los usuarios a desarrollar hábitos saludables a largo plazo. Noom ofrece programas personalizados de pérdida de peso, seguimiento del progreso, educación sobre nutrición y ejercicio, así como apoyo de coaches certificados.
+***Noom:*** Es una aplicación de coaching de salud y bienestar que se enfoca en el cambio de hábitos y la pérdida de peso. Utiliza tecnología y psicología para ayudar a los usuarios a adoptar hábitos saludables a largo plazo. Noom ofrece programas de pérdida de peso personalizados, educación sobre nutrición y ejercicio, seguimiento del progreso y apoyo de coaches certificados.
 
 <img src="assets/img/NTC_logo.png" alt="NTClogo" width="200" height="200">   
 
-***NikeTrainingClub:*** Es una aplicación de entrenamiento de Nike que ofrece una amplia variedad de programas de ejercicio, desde entrenamientos de fuerza hasta yoga y cardio. La aplicación incluye entrenamientos guiados por expertos, seguimiento del progreso y una comunidad activa de usuarios que comparten sus logros y motivan a otros. Además, Nike Training Club está integrado con dispositivos Nike y ofrece acceso exclusivo a contenido de entrenamiento de atletas y celebridades patrocinados por Nike.
+***NikeTrainingClub:*** Es una aplicación de entrenamiento de Nike que ofrece una amplia gama de programas de ejercicio, desde yoga y cardio hasta entrenamientos de fuerza. El entrenamiento guiado por expertos, el seguimiento del progreso y una comunidad activa de usuarios que comparten sus logros y motivan a otros son todos aspectos de la aplicación. Además, Nike Training Club, que está integrado con dispositivos Nike, brinda acceso exclusivo a contenido de entrenamiento patrocinado por Nike de atletas y celebridades.
+
 ### 2.1.1. Análisis competitivo.
 El análisis competitivo nos brinda una visión clara de cómo nos comparamos con nuestros competidores en el mercado. Nos ayuda a identificar áreas en las que podemos mejorar, así como oportunidades para diferenciarnos y destacar. Esta comprensión nos permite desarrollar estrategias más efectivas como grupo, lo que nos ayuda a alcanzar nuestros objetivos y mantenernos competitivos en el mercado.<br>
 
@@ -301,23 +303,6 @@ Resumen De Entrevista: El entrevistado muestra una motivación actual para mejor
 
 - - -
 
-### **Entrevista #3** <br>
-
-#### Características:
-Nombre y apellidos: Diego Paulino <br>
-Edad: 21 años <br>
-Distrito: Santiago de Surco <br>
-
-#### Imagen de referencia:
-![Entrevista_Seg01_DiegoPaulino](assets/img/Registro_Entrevista_Seg01_DiegoPaulino.png) <br>
-Inicio De Entrevista: 6:32 <br>
-Fin de la entrevista: 9:45 <br>
-
-#### Transcripción:
-Resumen De Entrevista: El entrevistado revela una motivación actual para mejorar su salud y condición física, destacando su interés en adoptar un estilo de vida más activa y organizada. Su experiencia previa incluye intentos anteriores de seguir una dieta equilibrada y hacer ejercicio regularmente, pero ha enfrentado desafíos como la falta de organización y la dificultad para mantener la consistencia. Busca un apoyo y orientación útiles para alcanzar sus objetivos, priorizando la educación sobre nutrición y la planificación de comidas saludables. Considera que una Aplicación web de coaching en línea sería beneficiosa por su accesibilidad y seguimiento del progreso. Al elegir un servicio de coaching, valora la personalización de los planes, el apoyo constante y la motivación para mantenerse comprometido con sus objetivos. Espera recibir un apoyo profesional y personalizado de un coach en su viaje hacia un estilo de vida más saludable.
-
-- - -
-
 # **Coaches certificados:**
 
 ### **Entrevista #1**
@@ -338,22 +323,6 @@ Resumen De Entrevista: El entrevistado revela una fuerte motivación en el campo
 - - -
 
 ### **Entrevista #2** <br>
-#### Características:
-Nombre y apellidos: Cristopher Paredes <br>
-  Edad: 23 años <br>
-  Distrito: Santiago de Surco<br>
-
-#### Imagen de referencia:
-  ![Entrevista_Seg02_CristopherParedes](assets/img/Registro_Entrevista_Seg02_Cristopher.png) <br>
-  Inicio De Entrevista: 14:46  
-  Fin de la entrevista: 21:14 <br>
-
-#### Transcripción:
-  Resumen De Entrevista: El entrevistado muestra     el porqué inició en el mundo del coaching y nutrición, destacando su deseo de ayudar a otras personas a obtener su cuerpo deseado. Ya que como él dice, entrenar y comer saludable es distinto a solamente comer saludable. Reconoce los desafios de de trabajar de manera presencial, como la dificultad de tener mas asesorados. Expresa entusiasmo por los beneficios que obtendría ofreciendo servicios de coaching en linea. En cuanto a las herramientas y caracteristicas esenciales, resalta la facilidad de hablar con mas asesorados en el transcurso del dia, asi como el seguimiento de progreso que los obtendria consultando una base de datos. Finalmente, destaca cómo una aplicación web de coaching podría mejorar significativamente su eficacia laboral y la experiencia del cliente.  
-
-- - -
-
-### **Entrevista #3** <br>
 #### Características:
 Nombre y apellidos: Adrián Valerio <br>
 Edad: 22 años <br>
@@ -392,11 +361,11 @@ Este análisis sugiere que ambos entrevistados comparten similitudes en término
 ![Pregunta6](assets/img/Resultados_Segmento2_Pregunta6.png)
 Características comunes:
 
-- **Motivación y pasión**: Todos los entrevistados muestran una fuerte motivación y pasión por el campo del coaching en ejercicio y alimentación, destacando su deseo de ayudar a otros a mejorar su salud y bienestar.
-- **Reconocimiento de desafíos**: Los entrevistados reconocen los desafíos asociados con el trabajo presencial, como las limitaciones geográficas y la dificultad para mantener la consistencia en las sesiones.
-- **Interés en la virtualidad**: Todos expresan un claro entusiasmo por los beneficios potenciales de ofrecer servicios de coaching en línea, como la eliminación de barreras geográficas y una mayor flexibilidad para ellos y sus clientes.
-- **Importancia de herramientas y características esenciales**: Resaltan la importancia de herramientas como la comunicación en tiempo real, el seguimiento del progreso y los recursos educativos en una plataforma en línea para brindar un servicio efectivo.
-- **Mejora de la eficacia laboral**: Todos destacan cómo una aplicación web de coaching podría mejorar
+- **Motivación y pasión**: Todos los entrevistados muestran una fuerte motivación y pasión por el campo del coaching en ejercicio y nutrición, destacando su deseo de ayudar a otros a mejorar su salud y bienestar.
+- **Reconocimiento de desafíos**: Los entrevistados reconocieron problemas relacionados con el trabajo presencial, como limitaciones geográficas y problemas para mantener la consistencia en las sesiones.
+- **Interés en la virtualidad**: Todos están claramente entusiasmados con los posibles beneficios de ofrecer servicios de coaching en línea, como la eliminación de barreras geográficas y una mayor flexibilidad para ellos y sus clientes.
+- **Importancia de herramientas y características esenciales**: Destacan la importancia de herramientas como la comunicación en tiempo real, el seguimiento del progreso y los recursos educativos en una plataforma en línea para brindar un servicio efectivo.
+- **Mejora de la eficacia laboral**: Todos hablan sobre cómo una aplicación de coaching en línea puede mejorar la productividad laboral.
 
 
 ## 2.3. Needfinding.
