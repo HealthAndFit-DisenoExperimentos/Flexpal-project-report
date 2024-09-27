@@ -12,7 +12,7 @@ Gracias a la herramienta de Selenium-IDE se ha logrado realizar los test que see
 
 ### 6.1.2. Core Integration Tests.
 
-[Imagen evidencia del Core Integration test]
+![unitTest1](assets/img/unitTest_1.png)
 
 ### 6.1.3. Core Behavior-Driven Development
 Estamos inmersos en el desarrollo de un sitio web que ofrece a los usuariosla capacidad de registrarse y acceder a una base de datos. En este proceso,podemos aprovechar los principios y prácticas del Behiavor-Driven-Development(BDD) para optimizar nuestra colaboración, definir y refinar los requisitos, yautomatizar las pruebas de aceptación. Una estrategia eficaz para estructurar estaspruebas es la técnica Given-When-Then. Por ejemplo, al considerar el escenario enel cual un usuario registrado accede a la base de datos, podemos seguir esteformato:
