@@ -4,7 +4,7 @@
 La integración continua es una estrategia en el desarrollo de software la cuallos desarrolladores utilizan para fusionar sus cambios de código con la ramamain muchas veces al día. Esto desencadena una secuencia automatizadade compilación y pruebas que se completa de manera muy rápida. Este enfoque busca asegurar un proceso de desarrollo predecible y confiable, conequipos capaces de detectar y solucionar rápidamente cualquier problema decompilación. En la competencia tecnológica, las empresas utilizan laintegración continua para agilizar la introducción de nuevas características,acelerar la corrección de errores y reducir el tiempo de lanzamiento al mercado de sus productos. Es crucial que todos los desarrolladores involucrados en el proyecto se comprometan con esta práctica, tomando medidas inmediatas para solucionar cualquier inconveniente que surja.
 ### 7.1.2. Build & Test Suite Pipeline Components.
 
-![Build & Test Suite Pipeline Components](assets/img/BuildTestPipeline.png)
+![Build & Test Suite Pipeline Components](assets/img/BuildTestPipelineComponents.png)
 
 ## 7.2. Continuous Delivery
 ### 7.2.1. Tools and Practices.
