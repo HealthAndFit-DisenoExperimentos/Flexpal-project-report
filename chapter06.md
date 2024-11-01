@@ -25,8 +25,6 @@ Para realizar los Core System tests, se ha seleccionado usar la herramienta“Li
 
 ![CoreSystemTest](assets/img/light1.jpg)
 
-![CoreSystemTest](assets/img/light2.jpg)
-
 El análisis realizado muestra que la página cumple con buenos niveles en accesibilidad y SEO, lo cual es positivo para la experiencia de usuario y el posicionamiento en buscadores. Sin embargo, el rendimiento general puede mejorarse significativamente. Las principales áreas de oportunidad están en la optimización de JavaScript, la carga diferida de recursos de terceros y la optimización de imágenes.
 
 Siguientes Pasos Recomendados
@@ -106,6 +104,23 @@ Buenas Prácticas de Documentación: Agregar comentarios al inicio de cada secci
 
 
 ### 6.2.1.2. Code Quality & Code Security: 
+
+En esta sección, se evaluará la calidad del código utilizando Lighthouse, que analiza el rendimiento, la accesibilidad y las mejores prácticas de la aplicación. Asimismo, se revisará la seguridad del código a través de Security Headers, que permite identificar la configuración de seguridad actual del sitio. El objetivo es asegurar que el código no solo cumpla con estándares de calidad, sino que también esté libre de vulnerabilidades, garantizando una experiencia confiable para los usuarios.
+
+
+LightHouse:
+
+![CodeQuality](assets/img/light1.jpg)
+
+![CodeQuality](assets/img/light2.jpg)
+
+
+
+SecurityHeaders:
+
+![Code Security](assets/img/seguridadCodigo1.jpg)
+
+![Code Security](assets/img/seguridadCodigo2.jpg)
 
 ### 6.2.2 Reviews: 
 
