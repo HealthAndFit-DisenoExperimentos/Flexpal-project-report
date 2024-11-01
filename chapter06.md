@@ -25,6 +25,22 @@ Para realizar los Core System tests, se ha seleccionado usar la herramienta“Li
 
 [Imagen evidencia del Core System test]
 
+## 6.2. Static Testing & Verification
+
+### 6.2.1. Static Code Analysis:
+
+### 6.2.1.1. Coding standard & Code conventions:
+
+### 6.2.1.2. Code Quality & Code Security: 
+
+### 6.2.2 Reviews: 
+
+
+
+
+
+
+
 ## 6.3. Validation Interviews
 ### 6.3.1. Diseño de Entrevistas.
 ### 6.3.2. Registro de Entrevistas.
