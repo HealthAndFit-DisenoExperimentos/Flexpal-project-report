@@ -1,4 +1,4 @@
-# **Capítulo VI: Product Verification & Validation**
+ # **Capítulo VI: Product Verification & Validation**
 ## 6.1. Testing Suites & Validation
 ### 6.1.1. Core Entities Unit Tests.
 Para la elaboración de los principales test de nuestra Landing Page, hemostenido en cuenta las secciones más importantes, las cuales son el 
@@ -24,3 +24,12 @@ Estamos inmersos en el desarrollo de un sitio web que ofrece a los usuariosla ca
 Para realizar los Core System tests, se ha seleccionado usar la herramienta“Lighthouse” en el cual se han realizado evaluaciones para nuestra Landing Pagedesplegada, las evaluaciones ejecutadas, se centran en el rendimiento principal denuestra Landing Page, accesibilidad y uso, a continuación se muestran mejoresdetalles.
 
 [Imagen evidencia del Core System test]
+
+## 6.3. Validation Interviews
+### 6.3.1. Diseño de Entrevistas.
+### 6.3.2. Registro de Entrevistas.
+### 6.3.3. Evaluaciones según heurísticas.
+
+## 6.4. Auditoría de Experiencias de Usuario
+### 6.4.1. Auditoría realizada.
+### 6.4.2. Auditoría recibida.
