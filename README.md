@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <h1 style="text-align: center;"> Informe del Trabajo Final </h1>
@@ -159,38 +160,18 @@ Los siguientes gráficos representan analíticos de commits en el repositorio de
 
 
 [4.3.2. Landing Page Mock-up](/chapter04.md#432-landing-page-mock-up)
-
-
 [4.4. Web Applications UX/UI Design](/chapter04.md#44-web-applications-uxui-design)
-
-
 [4.4.1. Web Applications Wireframes](/chapter04.md#441-web-applications-wireframes)
-
-
 [4.4.2. Web Applications Wireflow Diagrams](/chapter04.md#442-web-applications-wireflow-diagrams)
-
-
 [4.4.3. Web Applications Mock-ups](/chapter04.md#443-web-applications-mock-ups)
-
-
 [4.4.4. Web Applications User Flow Diagrams](/chapter04.md#444-web-applications-user-flow-diagrams)
-
-
 [4.5. Web Applications Prototyping](/chapter04.md#45-web-applications-prototyping)
-
 [4.6. Domain-Driven Software Architecture](/chapter04.md#46-domain-driven-software-architecture)
 
-
 [4.6.1. Software Architecture Context Diagram](/chapter04.md#461-software-architecture-context-diagram)
-
-
 [4.6.2. Software Architecture Container Diagrams](/chapter04.md#462-software-architecture-container-diagrams)
-
 [4.6.3. Software Architecture Components Diagrams](/chapter04.md#463-software-architecture-components-diagrams)
-
-
 [4.7. Software Object-Oriented Design](/chapter04.md#47-software-object-oriented-design)
-
 [4.7.1. Class Diagrams](/chapter04.md#471-class-diagrams)
 
 
