@@ -23,7 +23,10 @@ Estamos inmersos en el desarrollo de un sitio web que ofrece a los usuariosla ca
 ### 6.1.4. Core System Tests.
 Para realizar los Core System tests, se ha seleccionado usar la herramienta“Lighthouse” en el cual se han realizado evaluaciones para nuestra Landing Pagedesplegada, las evaluaciones ejecutadas, se centran en el rendimiento principal denuestra Landing Page, accesibilidad y uso, a continuación se muestran mejoresdetalles.
 
-[Imagen evidencia del Core System test]
+![CoreSystemTest](assets/img/light1.jpg)
+
+![CoreSystemTest](assets/img/light2.jpg)
+
 
 ## 6.2. Static Testing & Verification
 
