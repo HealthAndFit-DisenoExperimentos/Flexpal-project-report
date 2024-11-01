@@ -135,6 +135,31 @@ Ejemplo:
 
 ## 6.3. Validation Interviews
 ### 6.3.1. Diseño de Entrevistas.
+* **Individuos interesados en mejorar su salud y condición física:**
+1.	¿Qué tan fácil te resulta navegar en la aplicación?
+2.	¿Consideras que el proceso para configurar tus preferencias (como planes de entrenamiento o alimentación) es intuitivo?
+3.	¿Qué tan útil encuentras la función de seguimiento de progreso en la aplicación? ¿Qué mejorarías?
+4.	¿Te resulta fácil acceder a tus planes de nutrición y rutinas de ejercicio?
+5.	¿Sientes que la interfaz es visualmente atractiva y motivadora? ¿Por qué sí o por qué no?
+6.	¿Alguna vez te has sentido perdido o confundido al usar la aplicación? Si es así, ¿en qué momento?
+7.	¿Qué tan satisfactorio es el nivel de personalización de la aplicación (como dietas adaptadas a tus preferencias)?
+8.	¿Cómo describirías tu experiencia al comunicarte con los coaches dentro de la aplicación?
+9.	¿La aplicación satisface tus expectativas en cuanto a motivación y seguimiento de tus metas?
+10.	¿Recomendarías esta aplicación a otros usuarios interesados en mejorar su condición física? ¿Por qué?
+
+
+* **Profesionales del coaching en ejercicio y alimentación:**
+1.	¿Qué tan intuitiva te resulta la interfaz de la aplicación al organizar sesiones y rutinas?
+2.	¿Consideras que la aplicación facilita una comunicación efectiva con tus clientes?
+3.	¿Te sientes cómodo usando las herramientas de seguimiento de progreso para tus clientes? ¿Qué mejorarías?
+4.	¿Cómo calificarías la facilidad de acceso a la información de tus clientes y sus progresos?
+5.	¿La plataforma permite personalizar rutinas y planes de alimentación de forma eficiente?
+6.	¿Crees que la aplicación es segura y protege adecuadamente los datos de tus clientes?
+7.	¿Qué tan útil encuentras el diseño y la organización visual de la aplicación para tu trabajo diario?
+8.	¿Te parece adecuado el soporte que ofrece la aplicación para gestionar múltiples clientes?
+9.	¿Te sientes motivado a usar la plataforma regularmente como herramienta de coaching? ¿Por qué sí o no?
+10.	¿Qué recomendarías para mejorar la plataforma y hacerla más útil en tu trabajo?
+
 ### 6.3.2. Registro de Entrevistas.
 ### 6.3.3. Evaluaciones según heurísticas.
 
