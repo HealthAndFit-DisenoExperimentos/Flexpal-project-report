@@ -38,7 +38,11 @@ Siguientes Pasos Recomendados
 
 ## 6.2. Static Testing & Verification
 
+Esta sección cubre las pruebas estáticas y la verificación del código para identificar errores y vulnerabilidades antes de la ejecución, asegurando la calidad y el cumplimiento de los estándares de codificación.
+
 ### 6.2.1. Static Code Analysis:
+
+En esta sección, se abordará el análisis estático de código, que permite revisar el código fuente sin ejecutarlo. Su objetivo es detectar errores, vulnerabilidades y asegurar el cumplimiento de las normas de codificación para mejorar la calidad del software.
 
 ### 6.2.1.1. Coding standard & Code conventions:
 
