@@ -141,3 +141,52 @@ Ejemplo:
 ## 6.4. Auditoría de Experiencias de Usuario
 ### 6.4.1. Auditoría realizada.
 ### 6.4.2. Auditoría recibida.
+#### Auditoría de Experiencia de Usuario (UX)
+
+##### Resumen Ejecutivo
+Este documento presenta la auditoría de experiencia de usuario (UX) realizada sobre las interfaces del producto, cubriendo la Landing Page, el Frontend de la Aplicación Web, y la Aplicación Móvil (si aplica). La auditoría se enfoca en evaluar la consistencia visual, navegabilidad, accesibilidad, claridad en el diseño, y criterios de inclusión, con el objetivo de optimizar la interacción del usuario y la usabilidad del producto.
+
+##### Metodología
+La auditoría fue llevada a cabo utilizando un enfoque de revisión heurística y análisis de usabilidad, revisando los elementos de diseño según estándares de UX. Cada sección fue evaluada en base a principios de consistencia, accesibilidad, y facilidad de navegación, documentando puntos fuertes y áreas de mejora para cada uno.
+
+##### 1. Landing Page
+La Landing Page representa el punto de entrada principal para el usuario. A continuación, se detalla la evaluación de aspectos clave:
+
+###### Consistencia Visual
+La página muestra coherencia en el uso de colores, tipografía y espaciado, alineándose con las pautas de estilo. El diseño visual es atractivo y ayuda a orientar al usuario desde el inicio. Se recomienda mejorar algunos contrastes de color para asegurar una mejor legibilidad en ciertas áreas.
+
+###### Navegabilidad y Accesibilidad
+La navegación es intuitiva, con menús y enlaces bien organizados. La accesibilidad podría mejorarse mediante etiquetas ARIA y una optimización de elementos interactivos para usuarios con necesidades especiales. La inclusión de un botón de búsqueda visible podría también mejorar la experiencia.
+
+##### 2. Frontend de la Aplicación Web
+El frontend de la aplicación web es fundamental para la interacción continua del usuario con el producto. La auditoría en esta sección incluyó:
+
+###### Arquitectura de la Información
+Se evaluaron los sistemas de organización y etiquetado para asegurar que sean intuitivos y permitan al usuario navegar eficientemente por la aplicación. Se observó que la estructura de navegación es clara y los elementos son identificables fácilmente.
+
+###### Claridad del Diseño y Consistencia
+La interfaz del frontend sigue las pautas de estilo de manera consistente, asegurando que los elementos sean fáciles de identificar y utilizar. Esta coherencia facilita la usabilidad y permite al usuario orientarse rápidamente en la plataforma.
+
+###### Evaluación Inclusiva
+El diseño fue revisado para confirmar que se implementaron buenas prácticas de accesibilidad. La plataforma tiene en cuenta la diversidad de usuarios, facilitando el acceso y la interacción incluso para usuarios con distintas capacidades o limitaciones.
+
+##### 3. Aplicación Móvil (si aplica)
+En caso de que el producto incluya una aplicación móvil, se realizó una evaluación específica para esta plataforma, abarcando los siguientes puntos:
+
+###### Consistencia con la Versión Web
+Se revisó que los elementos de diseño en la versión móvil sean consistentes con los de la versión web. La interfaz móvil sigue las mismas pautas de estilo, garantizando una experiencia coherente en ambas plataformas.
+
+###### Facilidad de Navegación en Móvil
+La disposición de los elementos y la navegación en la aplicación móvil fueron evaluadas para asegurar que sean fáciles de usar en dispositivos de menor tamaño. El diseño es intuitivo y permite al usuario acceder rápidamente a las funcionalidades clave.
+
+##### Recomendaciones
+A partir de los hallazgos de la auditoría, se sugieren las siguientes mejoras para optimizar la experiencia de usuario:
+
+- Mejorar los contrastes de color en la Landing Page para aumentar la legibilidad.
+- Implementar etiquetas ARIA y otros elementos de accesibilidad en la navegación.
+- Agregar breadcrumbs en el frontend de la aplicación web para una navegación más clara.
+- Introducir iconografía en botones clave del frontend para mejorar la intuición de uso.
+- Adaptar ciertos elementos de la aplicación móvil para optimizar su usabilidad en pantallas pequeñas.
+
+##### Conclusión
+La auditoría de UX confirma que el producto cumple con los principios fundamentales de usabilidad y accesibilidad, aunque con áreas de mejora. Las recomendaciones proporcionadas apuntan a optimizar aún más la experiencia del usuario, asegurando que el producto sea intuitivo, accesible, y visualmente coherente en todas sus plataformas (web y móvil).
