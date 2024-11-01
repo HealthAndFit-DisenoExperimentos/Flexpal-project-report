@@ -25,8 +25,6 @@ Para realizar los Core System tests, se ha seleccionado usar la herramienta“Li
 
 ![CoreSystemTest](assets/img/light1.jpg)
 
-![CoreSystemTest](assets/img/light2.jpg)
-
 El análisis realizado muestra que la página cumple con buenos niveles en accesibilidad y SEO, lo cual es positivo para la experiencia de usuario y el posicionamiento en buscadores. Sin embargo, el rendimiento general puede mejorarse significativamente. Las principales áreas de oportunidad están en la optimización de JavaScript, la carga diferida de recursos de terceros y la optimización de imágenes.
 
 Siguientes Pasos Recomendados
