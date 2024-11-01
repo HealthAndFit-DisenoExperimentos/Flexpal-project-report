@@ -48,10 +48,12 @@ En esta sección, se documentarán los estándares de codificación y las conven
 Estándar W3C HTML5: Se utiliza !DOCTYPE html para indicar que el documento cumple con HTML5, lo cual es importante para la correcta interpretación del HTML en todos los navegadores.
 Uso de Etiquetas HTML estándar: La estructura principal del documento sigue las pautas de HTML5, manteniendo la claridad y organización del contenido dentro de etiquetas semánticas como html, head, body, header, main, section, y footer.
 Ejemplo:
-<!-- <!DOCTYPE html> -->
-<!-- <html lang="en"> -->
-<!-- ... -->
-<!-- </html> -->
+<!-- 
+<!DOCTYPE html> 
+<html lang="en"> 
+... 
+</html> 
+-->
 
 2. Declaración de Metadatos
 Estándar de Accesibilidad y SEO: Las etiquetas meta de description, keywords, y author mejoran la optimización para motores de búsqueda (SEO) y ayudan a proporcionar información adicional sobre el sitio.
