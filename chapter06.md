@@ -27,12 +27,48 @@ Para realizar los Core System tests, se ha seleccionado usar la herramienta“Li
 
 ![CoreSystemTest](assets/img/light2.jpg)
 
+El análisis realizado muestra que la página cumple con buenos niveles en accesibilidad y SEO, lo cual es positivo para la experiencia de usuario y el posicionamiento en buscadores. Sin embargo, el rendimiento general puede mejorarse significativamente. Las principales áreas de oportunidad están en la optimización de JavaScript, la carga diferida de recursos de terceros y la optimización de imágenes.
+
+Siguientes Pasos Recomendados
+- Revisar y Optimizar el Código JavaScript: Minimiza el código y aplica técnicas de carga diferida.
+- Reducir el Impacto de Recursos de Terceros: Utiliza alternativas diferidas o carga condicional.
+- Optimizar el Peso y Formato de Imágenes: Convierte las imágenes a formatos como WebP y ajusta el tamaño.
+- Implementar Buenas Prácticas para Mejorar el LCP y el TBT.
+
 
 ## 6.2. Static Testing & Verification
 
 ### 6.2.1. Static Code Analysis:
 
 ### 6.2.1.1. Coding standard & Code conventions:
+
+En esta sección, se documentarán los estándares de codificación y las convenciones de código utilizados para el proyecto FlexApp Landing Page. El objetivo es asegurar un código legible, mantenible y consistente.
+
+#### Estructura General del Documento HTML
+
+- Estándar W3C HTML5: Se utiliza <!DOCTYPE html> para indicar que el documento cumple con HTML5, lo cual es importante para la correcta interpretación del HTML en todos los navegadores.
+- Uso de Etiquetas HTML estándar: La estructura principal del documento sigue las pautas de HTML5, manteniendo la claridad y organización del contenido dentro de etiquetas semánticas como <html>, <head>, <body>, <header>, <main>, <section>, y <footer>.
+
+<!DOCTYPE html>
+<html "lang="en">
+...
+</html>
+
+#### Declaración de Metadatos
+
+- Estándar de Accesibilidad y SEO: Las etiquetas <meta> de description, keywords, y author mejoran la optimización para motores de búsqueda (SEO) y ayudan a proporcionar información adicional sobre el sitio.
+- Compatibilidad con Dispositivos Móviles: La etiqueta <meta "name="viewport" content="width=device-width, initial-scale=1.0"> garantiza que la página sea responsiva en dispositivos móviles.
+
+ejemplo: 
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Explora destinos nuevos y emocionantes con nuestra agencia de viajes.">
+    <meta name="keywords" content="viajes, destinos, agencia de viajes, turismo, aventura">
+    <meta name="author" content="UniqueTrip App">
+</head>
+
 
 ### 6.2.1.2. Code Quality & Code Security: 
 
