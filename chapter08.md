@@ -37,6 +37,29 @@ plataforma y poder tomar decisiones informadas.
 
 ## 8.2 Experiment Design
 ### 8.2.1 Hypotheses y
+<table border="1" style="text-align: center;">
+	<tbody>
+		<tr>
+			<td colspan="2">Hipótesis 1</td>
+		</tr>
+		<tr>
+     			<td colspan="1">Pregunta</td>
+      			<td colspan="1">¿?</td> 
+    		</tr>
+		<tr>
+     			<td colspan="1">Creencia</td>
+      			<td colspan="1">¿?</td> 
+    		</tr>
+		<tr>
+     			<td colspan="1">Hipotesis (alternativa)</td>
+      			<td colspan="1">¿?</td> 
+    		</tr>
+		<tr>
+     			<td colspan="1">Hipotesis (nula)</td>
+      			<td colspan="1">¿?</td> 
+    		</tr>
+	</tbody>
+</table>
 
 ### 8.2.2 Measures: Definir hipótesis y medidas clave.
 | Pregunta | ¿? |
@@ -53,14 +76,105 @@ plataforma y poder tomar decisiones informadas.
 <table border="1" style="text-align: center;">
 	<tbody>
 		<tr>
-			<td colspan="6">Scale calculation</td>
-      <td colspan="6">Decisión</td>
-      <td colspan="6">Factor</td> 
-      
-    </tr>
+			<td colspan="1">Scale calculation</td>
+     			<td colspan="1">Decisión</td>
+      			<td colspan="4">Factor</td> 
+    		</tr>
+		<tr>
+			<td colspan="2"></td>
+			<td>Desfavorables</td>
+			<td>Aceptables</td>
+			<td>Ideal</td>
+			<td>Excelente</td>
+		</tr>
 	</tbody>
 </table>
+
 ### 8.2.5 Methods Selection 
+Para analizar la información y los datos propuesto en nuestro proyecto, decidimos optar comparativas con algunas de las herramientas que se usan para este tipo de casos:
+<table border="1" style="text-align: center;">
+	<tbody>
+		<tr>
+			<td colspan="3">Google Analitics</td>
+		<tr>
+			<td colspan="1">Descripción</td>
+     			<td colspan="1">Ventajas</td>
+      			<td colspan="1">Desventajas</td> 
+    		</tr>
+		<tr>
+			<td colspan="1">Una herramienta de análisis web que ofrece capacidades avanzadas para rastrear, medir y analizar el comportamiento de los usuarios en sitios web, aplicaciones móviles y otras plataformas digitales.</td>
+			<td>
+                <ul>
+                    <li>Ofrece capacidades avanzadas de análisis web y seguimiento de usuarios.</li>
+                    <li> Integración con otras soluciones de Google, como Google Ads y Google Data Studio.</li>
+                    <li>Personalización y creación de informes altamente flexibles.</li>
+                </ul>
+            </td>
+      			<td>
+                <ul>
+                    <li>Algunas funcionalidades avanzadas pueden requerir una cuenta premium o de pago.</li>
+                    <li>Requiere implementación de código en el sitio web para rastrear datos.</li>
+                </ul>
+            </td>
+    		</tr>
+	</tbody>
+</table>
+
+<table border="1" style="text-align: center;">
+	<tbody>
+		<tr>
+			<td colspan="3">Tableau</td>
+		<tr>
+			<td colspan="1">Descripción</td>
+     			<td colspan="1">Ventajas</td>
+      			<td colspan="1">Desventajas</td> 
+    		</tr>
+		<tr>
+			<td colspan="1">Una herramienta de visualización de datos que ayuda a las empresas a ver y entender sus datos a través de dashboards interactivos y altamente personalizables.</td>
+			<td>
+                <ul>
+                    <li>Capacidad para conectar y analizar datos de múltiples fuentes.</li>
+                    <li>Herramientas avanzadas de visualización de datos y creación de dashboards interactivos.</li>
+                    <li>Fuerte comunidad de usuarios y recursos de aprendizaje</li>
+                </ul>
+            </td>
+      			<td>
+                <ul>
+                    <li>Curva de aprendizaje pronunciada para usuarios no técnicos.</li>
+                    <li>Requiere una licencia de pago para acceder a todas las funcionalidades.</li>
+                </ul>
+            </td>
+    		</tr>
+	</tbody>
+</table>
+
+<table border="1" style="text-align: center;">
+	<tbody>
+		<tr>
+			<td colspan="3">Microsoft Power BI</td>
+		<tr>
+			<td colspan="1">Descripción</td>
+     			<td colspan="1">Ventajas</td>
+      			<td colspan="1">Desventajas</td> 
+    		</tr>
+		<tr>
+			<td colspan="1">Una herramienta de análisis de negocios que permite a los usuarios crear informes interactivos y dashboards, facilitando la toma de decisiones basada en datos.</td>
+			<td>
+                <ul>
+                    <li>Integración con otros productos de Microsoft, como Excel y Azure.</li>
+                    <li>Interfaz intuitiva y fácil de usar para la creación de informes.</li>
+                    <li> Opciones de análisis de datos en tiempo real.</li>
+                </ul>
+            </td>
+      			<td>
+                <ul>
+                    <li>Algunas funcionalidades avanzadas pueden requerir una suscripción de pago.</li>
+                    <li>Limitaciones en la personalización de ciertos tipos de gráficos y visualizaciones.</li>
+                </ul>
+            </td>
+    		</tr>
+	</tbody>
+</table>
 
 ### 8.2.6 Data Analytics: Selección de métodos y métricas de análisis.
 Esta sección explica lo que se pretende lograr con el análisis de datos, cuáles son los KPIs
