@@ -50,8 +50,17 @@ plataforma y poder tomar decisiones informadas.
 | Condición de Control   | ¿? |
 
 ### 8.2.4 Scale Calculations and Decisions: Establecer condiciones y cálculos de escala.
-
-### 8.2.5 Methods Selection y 
+<table border="1" style="text-align: center;">
+	<tbody>
+		<tr>
+			<td colspan="6">Scale calculation</td>
+      <td colspan="6">Decisión</td>
+      <td colspan="6">Factor</td> 
+      
+    </tr>
+	</tbody>
+</table>
+### 8.2.5 Methods Selection 
 
 ### 8.2.6 Data Analytics: Selección de métodos y métricas de análisis.
 Esta sección explica lo que se pretende lograr con el análisis de datos, cuáles son los KPIs
