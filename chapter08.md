@@ -181,6 +181,11 @@ Esta sección explica lo que se pretende lograr con el análisis de datos, cuál
 más relevantes para monitorear y qué métricas se utilizarán para evaluar el rendimiento de
 la plataforma.
 
+- **1. Eventos de Uso de Funcionalidades:** Estos eventos rastrearán las acciones relacionadas con el uso de las funcionalidades de FlexPal. El principal objetivo será comprender mejor cómo los entrenadores utilizan diferentes funcionalidades para mejorar su eficiencia y eficacia.
+- **2. Retención de usuarios:** Se tiene pensado la evaluación sobre la retención de usuarios a lo largo del tiempo, de esta manera se podrá conocer cuántos entrenadores regresan y usan FlexPal de manera recurrente, con el objetivo de medir la fidelidad de los usuarios y evaluar la efectividad de las estrategias de retención
+- **3. Tasa de crecimiento de ventas:** Implementar un monitoreo sobre el incremento en las ventas generadas por los entrenadores utilizando FlexPal, con la finalidad de evaluar el impacto de FlexPal en el crecimiento de las subscripciones y ajustar estrategias en consecuencia.
+- **4. Tiempo de respuesta del sistema:** Se medirá la velocidad con la que FlexPal procesa solicitudes de carga de datos, con el objetivo de asegurar una experiencia de usuario fluida y eficiente.
+
 ### 8.2.7 Web and Mobile Tracking Plan: Planificar el seguimiento en plataformas web y móvil.
 **Etapa Final: Definición del Plan de Seguimiento de Experimentos para FlexPal**
 
