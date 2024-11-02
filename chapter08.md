@@ -29,14 +29,14 @@ plataforma y poder tomar decisiones informadas.
 - ¿Qué formatos y visualizaciones de datos son más efectivos para los reportes de resultados por sesión?
 
 ### 8.1.5 Experiment Cards
-| QUESTION | ¿? |
+| QUESTION | ¿Los clientes tienen miedo de realizar una subscripción online porque podría ser peor que una presencial? |
 |----------|----|
-| WHY      | ¿? |
-| WHAT     | ¿? |
-| HYPOTHESIS | ... |
+| WHY      | Porque la inscripción por internet es más sencilla y directa |
+| WHAT     | Implementamos un sistema de garantía de servicio |
+| HYPOTHESIS | Si logramos que aumenten la cantidad de usuarios que deciden hacer una subscripción online en un 10%, entonces podemos incrementar las ventas en un 5% |
 
 ## 8.2 Experiment Design
-### 8.2.1 Hypotheses y
+### 8.2.1 Hypotheses
 <table border="1" style="text-align: center;">
 	<tbody>
 		<tr>
@@ -44,33 +44,33 @@ plataforma y poder tomar decisiones informadas.
 		</tr>
 		<tr>
      			<td colspan="1">Pregunta</td>
-      			<td colspan="1">¿?</td> 
+      			<td colspan="1">¿Cuántos usuarios siguen utilizando el servicio después de la primera sesión?</td> 
     		</tr>
 		<tr>
      			<td colspan="1">Creencia</td>
-      			<td colspan="1">¿?</td> 
+      			<td colspan="1">Después de la primera sesión mucha gente pierde el interés de seguir utilizando el servicio de la plataforma</td> 
     		</tr>
 		<tr>
      			<td colspan="1">Hipotesis (alternativa)</td>
-      			<td colspan="1">¿?</td> 
+      			<td colspan="1">Al proveer incentivos tras la primera sesión, al igual que datos sobre el rendimiento estimado, lograremos aumentar la retención de usuarios en un 20%</td> 
     		</tr>
 		<tr>
      			<td colspan="1">Hipotesis (nula)</td>
-      			<td colspan="1">¿?</td> 
+      			<td colspan="1">Al proveer incentivos tras la primera sesión, al igual que datos sobre el rendimiento estimado, no lograremos aumentar la retención de usuarios en un 10%</td> 
     		</tr>
 	</tbody>
 </table>
 
-### 8.2.2 Measures: Definir hipótesis y medidas clave.
-| Pregunta | ¿? |
+### 8.2.2 Measures
+| Pregunta | ¿Cuántos usuarios siguen utilizando el servicio después de la primera sesión? |
 |----------|----|
-| Medida      | ¿? |
+| Medida      | Cnatidad de usuarios que llegan a agendar una segunda sesión dentro de un mes |
 
-### 8.2.3 Conditions y 
-| Pregunta | ¿? |
+### 8.2.3 Conditions
+| Pregunta | ¿Cuántos usuarios siguen utilizando el servicio después de la primera sesión? |
 |----------|----|
-| Condición Experimental | ¿? |
-| Condición de Control   | ¿? |
+| Condición Experimental | La cantidad de ususarios que llega a agendar una segunda sesión aumenta en un 10% |
+| Condición de Control   | La cantidad de ususarios que sigue utilizando el servicio tras la segunda sesión es igual o mayor|
 
 ### 8.2.4 Scale Calculations and Decisions: Establecer condiciones y cálculos de escala.
 <table border="1" style="text-align: center;">
@@ -86,6 +86,14 @@ plataforma y poder tomar decisiones informadas.
 			<td>Aceptables</td>
 			<td>Ideal</td>
 			<td>Excelente</td>
+		</tr>
+		<tr>
+			<td>Creemos que implementar un descuento del 20% en la segunda sesión, además de proveer estadísticas sobre posibles resultados futuros, aumentará la cantidad de usuarios que agenden una segunda sesión en un 10%</td>
+			<td>Vamos a implementar una pestaña de logros futuros basada en los datos de la sesión</td>
+			<td>1%<=x<2% </td>
+			<td>>=2%</td>
+			<td>>=5%</td>
+			<td>>=9&</td>
 		</tr>
 	</tbody>
 </table>
