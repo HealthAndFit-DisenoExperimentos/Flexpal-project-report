@@ -6,39 +6,43 @@ La integración continua es una estrategia en el desarrollo de software la cuall
 
 ![Build & Test Suite Pipeline Components](assets/img/BuildTestPipelineComponents.png)
 
-## 7.2. Continuous Delivery
-### 7.2.1. Tools and Practices.
-Utilizamos Github como repositorio del proyecto, cuando hacemos cambios alrepositorio, un código cypress corre en el servidor y se genera un log queseñala si hubo errores o conflictos viniendo de nuevos cambios.
-### 7.2.2. Stages Deployment Pipeline Components.
-Test Stage:
-- Marco de pruebas unitarias: Mockito
-- Pruebas de integración: Mockito
-- Pruebas de aceptación automatizadas:Selenium
-  
-Staging Environment:
-- Orquestación de contenedores: Docker, Kubernetes
-- Aprovisionamiento de servidores: MySql
-  
-Deployment Stage:
-- Herramientas de despliegue continuo: GitHub CI/CD
-- Release Stage:Herramientas de monitoreo y registro: New Relic.
-  
-Rollback and Recovery:
-- Copias de seguridad y restauración: MySql105
-- Gestión de versiones de código: Git.
-  
-Release Management:
-- Herramientas de gestión de versiones: Git, GitHub.
-  
-## 7.3. Continuous deployment
-### 7.3.1. Tools and Practices.
-Para llevar a cabo el proceso de gestión de versiones en Git, utilizamos laterminal de comandos. Para facilitar la automatización del proyecto, se haceuso de la herramienta “Gitflow” que brinda una guía detallada y automatizadapara seguir el flujo. Garantizandonos una gestión más eficiente.
-### 7.3.2. Production Deployment Pipeline Components.
-Source Control Management: Git
+## 7.2 Continuous Delivery
 
-Build and compilation: Builder de Angular
+### 7.2.1 Tools and Practices
+En la entrega continua, el código pasa por un pipeline de pruebas, y una vez aprobado, está listo para ser lanzado a producción bajo aprobación manual. Las herramientas incluyen **GitHub Actions, Jenkins, GitLab CI**, y **Spinnaker** para automatizar los pipelines de entrega.
 
-Artifact repository: Maven Centra
+### 7.2.2 Stages Deployment Pipeline Components
+- **Test Stage:** Pruebas de unidad (con **JUnit, Mockito**) y pruebas de aceptación automatizadas (ej. **Selenium**).
+- **Staging Environment:** Con herramientas como **Docker** y **Kubernetes** para orquestar contenedores.
+- **Deployment Stage:** Automatización mediante **GitHub Actions**.
+- **Release Stage:** Monitoreo continuo de rendimiento usando **New Relic** o **Prometheus**.
+- **Rollback and Recovery:** Sistema de backup y restauración con **MySQL** y gestión de versiones mediante **Git**.
+
+## 7.3 Continuous Deployment
+
+### 7.3.1 Tools and Practices
+La implementación continua (CD) se realiza mediante herramientas que automatizan la entrega de código en producción. **Jenkins** o **GitLab CI/CD** son útiles aquí, junto con prácticas como el uso de ramas de Git (ej. **Gitflow**) para gestionar cambios y evitar errores en producción.
+
+### 7.3.2 Production Deployment Pipeline Components
+- **Source Control Management:** Git para mantener el historial de cambios.
+- **Build and Compilation:** Usa herramientas como el **builder de Angular**.
+- **Artifact Repository:** Guarda artefactos compilados con **Maven Central**.
+
+## 7.4 Continuous Monitoring
+
+### 7.4.1 Tools and Practices
+Herramientas de monitoreo como **Prometheus, Grafana** y **New Relic** permiten monitorear el rendimiento en tiempo real, capturando métricas de aplicaciones y sistemas. Estas herramientas identifican problemas de rendimiento y estabilidad antes de que afecten a los usuarios.
+
+### 7.4.2 Monitoring Pipeline Components
+Los componentes incluyen:
+- **Metric Collection:** Recopilación de métricas en tiempo real mediante **Prometheus** o **Datadog**.
+- **Logs Management:** **ELK Stack (ElasticSearch, Logstash, Kibana)** para gestionar y visualizar logs.
+
+### 7.4.3 Alerting Pipeline Components
+- **Alerting:** Configuración de alertas con **Grafana** o **PagerDuty** para notificar a los equipos de incidentes críticos. Las alertas se configuran con umbrales específicos para detectar anomalías en el rendimiento, errores del sistema y otros eventos críticos que requieren atención inmediata.
+
+### 7.4.4 Notification Pipeline Components
+- **Notification:** Integración con **Slack** o **email** para enviar notificaciones a los equipos de desarrollo en caso de errores críticos o caídas en el sistema. Este componente asegura que los mensajes de alerta lleguen de manera rápida y eficaz a los responsables, permitiendo una respuesta oportuna.
 
 ## Avance de Conclusiones, Bibliografía y Anexos.
 ### Conclusiones
