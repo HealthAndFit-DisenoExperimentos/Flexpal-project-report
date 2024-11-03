@@ -23,6 +23,7 @@
 |Reyes Valenzuela, Renato German|U20221B471|
 |Carpio Cornejo, Miguel Angel|U20221C360|
 |De Las Casas Latour, Sebastián|U202213553|
+|Curi Marcelo, Angelo Marcio| u202022387|
 
 </div>
 
