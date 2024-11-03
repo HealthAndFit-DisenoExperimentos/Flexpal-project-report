@@ -158,6 +158,12 @@ SecurityHeaders:
 10.	¿Qué recomendarías para mejorar la plataforma y hacerla más útil en tu trabajo?
 
 ### 6.3.2. Registro de Entrevistas.
+### Entrevista 1
+| Entrevista                                      | Entrevistado      |
+|-------------------------------------------------|-------------------|
+| [Enlace](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b471_upc_edu_pe/EecM9mlmIsNJnxiAvYI8HdYBc4TM7na-nXXit8rREned6A?e=nP0zRy&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) | Alexandra Molina |
+
+
 ### 6.3.3. Evaluaciones según heurísticas.
 
 ## 6.4. Auditoría de Experiencias de Usuario
