@@ -231,3 +231,8 @@ Proceso de Monitoreo y Análisis:
 - **3. Análisis de Datos:** Evaluar los datos recopilados para identificar patrones y tendencias. Comparar los resultados con los objetivos establecidos.
 - **4. Feedback de Usuarios:** Revisar los comentarios y sugerencias de los cuestionarios enviados a los usuarios.
 - **5. Iteración y Mejora:** Basado en el análisis de datos y feedback, realizar ajustes y mejoras en las funcionalidades experimentales.
+## 8.3
+## 8.4
+## 8.5. Continous Learning 
+### 8.5.1 Shareback Session Artifact: Learning Workflow
+## 8.6
