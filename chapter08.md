@@ -232,7 +232,13 @@ Proceso de Monitoreo y Análisis:
 - **4. Feedback de Usuarios:** Revisar los comentarios y sugerencias de los cuestionarios enviados a los usuarios.
 - **5. Iteración y Mejora:** Basado en el análisis de datos y feedback, realizar ajustes y mejoras en las funcionalidades experimentales.
 ## 8.3
-## 8.4
+## 8.4. Experiment Aftermath & Analysis
+
+### 8.4.1. Experiment Aftermath & Analysis
+
+### 8.4.2. Re-scored and Re-prioritized Question Backlog
+
+
 ## 8.5. Continous Learning 
 ### 8.5.1 Shareback Session Artifact: Learning Workflow
 Arquitectura y Tecnologías Utilizadas
