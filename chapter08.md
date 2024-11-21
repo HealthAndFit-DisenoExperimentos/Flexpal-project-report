@@ -235,4 +235,27 @@ Proceso de Monitoreo y Análisis:
 ## 8.4
 ## 8.5. Continous Learning 
 ### 8.5.1 Shareback Session Artifact: Learning Workflow
+Arquitectura y Tecnologías Utilizadas
+Arquitectura:
+- Nuestra aplicación está basada y desplegada en la nube para escalabilidad.
+  
+Tecnologías:
+- Base de datos SQL para almacenar información de los paquetes.
+- Framework web para desarrollo rápido (Angular).
+
+Funcionalidades Clave
+- Registro y Autenticación de Usuarios: Proceso seguro y fácil.
+- Buy: la función que te permite guardar tus datos y pagar el servicio.
+
+Proceso de Desarrollo
+- Enfoque: Usabilidad y seguridad.
+- Pruebas: Sistema de prueba continuo para identificar y abordar problemas.
+
+Experiencia del Usuario (UX)
+- Interfaz de Usuario: Intuitiva y atractiva.
+- Retroalimentación: Positiva de usuarios de prueba.
+
+Testing y Calidad
+- Pruebas: Rigurosas de seguridad y rendimiento realizadas con selenium y con jenkins.
+
 ## 8.6
