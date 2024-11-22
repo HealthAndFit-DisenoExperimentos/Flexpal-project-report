@@ -265,6 +265,9 @@ Recomendaciones clave:
 
 
 ## 6.4. Auditoría de Experiencias de Usuario
+
+En esta sección se realizará una auditoría completa de la experiencia de usuario de FlexPal, evaluando la interacción con la plataforma, identificando puntos de fricción y analizando la usabilidad general. Se obtendrán recomendaciones para optimizar el flujo de navegación y mejorar la accesibilidad, asegurando que el diseño sea intuitivo y responda a las necesidades de los usuarios.
+
 ### 6.4.1. Auditoría realizada.
 ### 6.4.2. Auditoría recibida.
 #### Auditoría de Experiencia de Usuario (UX)
