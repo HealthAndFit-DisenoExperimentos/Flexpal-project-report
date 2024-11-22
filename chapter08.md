@@ -237,33 +237,35 @@ Proceso de Monitoreo y Análisis:
 ## 8.3
 ## 8.4. Experiment Aftermath & Analysis
 
-Esta sección aborda los resultados y aprendizajes obtenidos tras realizar el experimento. Su objetivo principal es interpretar los datos recolectados y priorizar cualquier ajuste o refinamiento basado en los resultados obtenidos.
+Esta sección se enfoca en los resultados y aprendizajes obtenidos tras realizar el experimento. El objetivo principal es interpretar los datos recolectados y priorizar ajustes o refinamientos basados en estos resultados.
 
 ### 8.4.1. Analysis and Interpretation of Results
 
-El análisis de los resultados obtenidos permite interpretar los datos recolectados durante el experimento y evaluar su impacto en los objetivos establecidos. Este proceso se enfoca en responder preguntas clave relacionadas con el desempeño, la efectividad y las áreas de mejora identificadas:
+El análisis de los resultados obtenidos permite interpretar los datos recolectados durante el experimento y evaluar su impacto en los objetivos establecidos. Este proceso responde preguntas clave sobre el desempeño, la efectividad y las áreas de mejora identificadas:
 
 - Identificación de lo que funcionó según lo esperado.
 - Detección de aspectos que no cumplieron con las expectativas y sus posibles causas.
 - Propuestas de mejoras específicas basadas en la evidencia recolectada.
 
-La interpretación de resultados combina tanto datos cuantitativos (métricas clave, tasas de éxito, tiempos, porcentajes) como cualitativos (retroalimentación de los usuarios o participantes). Posteriormente, se comparan estos datos con los objetivos iniciales del experimento para determinar el nivel de cumplimiento y los ajustes necesarios.
+La interpretación de resultados combina tanto datos cuantitativos (métricas clave, tasas de éxito, tiempos, porcentajes) como cualitativos (retroalimentación de usuarios o participantes). Posteriormente, estos datos se comparan con los objetivos iniciales del experimento para determinar el nivel de cumplimiento y los ajustes necesarios.
 
 
 ### 8.4.2. Re-scored and Re-prioritized Question Backlog
 
-Una vez obtenidos y analizados los resultados, se procede a re-priorizar el backlog de preguntas, asegurando que esté alineado con los aprendizajes del experimento. Este proceso consta de los siguientes pasos:
+Una vez obtenidos y analizados los resultados, se procederá a re-priorizar el backlog de preguntas, asegurando que esté alineado con los aprendizajes del experimento. Este proceso incluye:
 
-- Reasignación de puntajes:
-Se revisa cada pregunta o problema pendiente, ajustando su relevancia en función de los nuevos hallazgos. Las preguntas resueltas se eliminan o archivan, mientras que aquellas relacionadas con áreas críticas identificadas ganan prioridad.
+- Reasignación de puntajes: Se revisa cada pregunta o problema pendiente y se ajusta su relevancia en función de los 
+  nuevos hallazgos. Las preguntas resueltas se eliminan o archivan, mientras que las relacionadas con áreas críticas 
+  identificadas ganan prioridad.
 
-- Priorización basada en impacto:
-Las preguntas que demuestran un impacto directo en los resultados esperados se priorizan en el backlog. Esto garantiza que las áreas con mayor influencia en la experiencia del usuario o en los objetivos del proyecto sean abordadas primero.
+- Priorización basada en impacto: Las preguntas que demuestran un impacto directo en los resultados esperados se 
+  priorizan. Esto asegura que las áreas con mayor influencia en la experiencia del usuario o los objetivos del 
+  proyecto sean abordadas primero.
 
-- Planificación de próximos pasos:
-Se establecen las acciones futuras para abordar las preguntas priorizadas, como el diseño de nuevos experimentos, ajustes en las implementaciones actuales o reuniones de trabajo para definir estrategias.
+- Planificación de próximos pasos: Se establecen acciones para abordar las preguntas priorizadas, como el diseño de 
+  nuevos experimentos, ajustes en las implementaciones actuales o reuniones de trabajo para definir estrategias.
 
-Este proceso asegura un ciclo iterativo de mejora continua, enfocado en resolver las áreas críticas identificadas y maximizar los resultados.
+Este proceso garantiza un ciclo iterativo de mejora continua, centrado en resolver las áreas críticas y maximizar los resultados.
 
 ## 8.5. Continous Learning 
 
