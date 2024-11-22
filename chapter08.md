@@ -22,7 +22,7 @@ Entre sus funcionalidades destacadas se encuentran la gestión de sesiones en l�
 - La plataforma debe mejorar su capacidad para gestionar grandes volúmenes de datos y usuarios concurrentes sin sacrificar el rendimiento, especialmente conforme crece la base de usuarios.
 
 ### 8.1.3 Experiment-Ready Questions: Formular preguntas clave para los experimentos.
-- ¿Qué estrategias de marketing digital son más efectivas para aumentar la visibilidad y atraer nuevos clientes a los entrenadores que utilizan FlexPal?
+- ¿Qué tácticas específicas de marketing digital son más efectivas para aumentar la visibilidad de los entrenadores dentro de la plataforma FlexPal y atraer nuevos clientes? ¿Cómo podemos medir la conversión de usuarios en clientes a través de estas estrategias?
 
 ### 8.1.4 Question Backlog 
 Las preguntas implantadas en el “Question Backlogs” son primordiales para mejorar
