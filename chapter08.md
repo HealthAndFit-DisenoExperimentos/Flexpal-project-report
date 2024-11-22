@@ -292,6 +292,8 @@ Testing y Calidad
 
 ## 8.6. To-Be Software Platform Pre-launch
 
+En esta fase, se creará un video promocional que resuma el modelo de negocio, características y beneficios del producto.
+
 ### 8.6.1. Abouth-the-Product Intro Video
  
 	youtube: https://youtu.be/dNG-wDpqw_Q
