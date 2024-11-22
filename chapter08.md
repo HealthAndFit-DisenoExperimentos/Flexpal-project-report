@@ -342,8 +342,12 @@ En esta fase, se creará un video promocional que resuma el modelo de negocio, c
 
 ### 8.6.1. Abouth-the-Product Intro Video
  
-	youtube: https://youtu.be/dNG-wDpqw_Q
-
+	https://youtu.be/F-16RIZ7I8w
+ 
+ ### 8.6.2. Abouth-the-team Video
+ 
+	https://youtu.be/gPRd4gs96X0
+ 
 ## Conclusiones
 
 - FlexApp combina tecnología y fitness, ofreciendo planes de nutrición, rutinas adaptadas y entrenadores especializados, revolucionando la experiencia fitness.
