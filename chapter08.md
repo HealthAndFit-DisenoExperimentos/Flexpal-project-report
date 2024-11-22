@@ -263,6 +263,9 @@ Se establecen las acciones futuras para abordar las preguntas priorizadas, como 
 Este proceso asegura un ciclo iterativo de mejora continua, enfocado en resolver las áreas críticas identificadas y maximizar los resultados.
 
 ## 8.5. Continous Learning 
+
+En este punto, se implementará un flujo de aprendizaje continuo para identificar y abordar áreas de mejora en el desarrollo, la usabilidad, y la calidad del sistema, utilizando pruebas automatizadas y retroalimentación constante de usuarios. Esto asegurará la optimización y evolución de la aplicación.
+
 ### 8.5.1 Shareback Session Artifact: Learning Workflow
 Arquitectura y Tecnologías Utilizadas
 Arquitectura:
