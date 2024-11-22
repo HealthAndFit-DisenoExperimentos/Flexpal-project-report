@@ -200,9 +200,9 @@ Evaluadores: HealthAndFit
 
 **Prevención de errores**
 
-Evaluación: Aunque no se identifican riesgos graves de errores, los formularios no incluyen validación en tiempo real, lo que podría permitir errores de entrada.
+- Evaluación: Aunque no se identifican riesgos graves de errores, los formularios no incluyen validación en tiempo real, lo que podría permitir errores de entrada.
 
-Recomendación: Implementar validación en los formularios para evitar errores y mejorar la experiencia del usuario.
+- Recomendación: Implementar validación en los formularios para evitar errores y mejorar la experiencia del usuario.
 
 **Reconocimiento antes que recuerdo**
 
