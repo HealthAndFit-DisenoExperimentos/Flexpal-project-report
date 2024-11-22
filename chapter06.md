@@ -131,6 +131,9 @@ SecurityHeaders:
 
 
 ## 6.3. Validation Interviews
+
+En esta sección, realizamos entrevistas con usuarios o partes interesadas para obtener su retroalimentación sobre el producto o diseño. El objetivo es confirmar que el producto satisface sus necesidades y expectativas, validar suposiciones y detectar áreas de mejora antes de continuar con el desarrollo o lanzamiento.
+
 ### 6.3.1. Diseño de Entrevistas.
 * **Individuos interesados en mejorar su salud y condición física:**
 1.	¿Qué tan fácil te resulta navegar en la aplicación?
