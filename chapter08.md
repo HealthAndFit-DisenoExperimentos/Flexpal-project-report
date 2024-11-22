@@ -239,6 +239,8 @@ Proceso de Monitoreo y Análisis:
 - **5. Iteración y Mejora:** Basado en el análisis de datos y feedback, realizar ajustes y mejoras en las funcionalidades experimentales.
 ## 8.3. Experimentation
 
+Esta sección se centra en analizar los resultados obtenidos de los experimentos, interpretando los datos recolectados para tomar decisiones informadas y priorizar los ajustes necesarios para mejorar el producto o proceso.
+
 ### 8.3.1. To-Be User Stories
 
 ### 8.3.2. To-Be Product Backlog
