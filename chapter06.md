@@ -269,6 +269,87 @@ Recomendaciones clave:
 En esta sección se realizará una auditoría completa de la experiencia de usuario de FlexPal, evaluando la interacción con la plataforma, identificando puntos de fricción y analizando la usabilidad general. Se obtendrán recomendaciones para optimizar el flujo de navegación y mejorar la accesibilidad, asegurando que el diseño sea intuitivo y responda a las necesidades de los usuarios.
 
 ### 6.4.1. Auditoría realizada.
+
+Auditoría de Experiencia de Usuario (UX) - Plataforma FlexPal
+
+Resumen Ejecutivo
+
+La auditoría de experiencia de usuario (UX) se llevó a cabo para evaluar las interfaces de la plataforma FlexPal, centrando la atención en el Frontend de la Aplicación Web y la Landing Page. El objetivo principal fue analizar la usabilidad, accesibilidad, consistencia visual y facilidad de navegación, con el fin de garantizar que la plataforma ofrezca una experiencia de usuario óptima. Durante la auditoría se usaron métodos de revisión heurística y análisis comparativo con estándares de accesibilidad y mejores prácticas en diseño UX.
+
+Metodología
+
+La auditoría fue ejecutada mediante una revisión heurística, donde se evaluaron las pantallas clave de la plataforma. Los criterios clave fueron:
+
+- Consistencia visual
+
+- Accesibilidad
+
+- Facilidad de navegación
+- Inclusión de criterios de diversidad de usuarios
+
+Cada uno de estos elementos fue analizado según los estándares establecidos de la industria, con observaciones que incluyen tanto puntos fuertes como áreas que requieren mejora. A continuación, se detallan los hallazgos de la auditoría.
+
+#### 1. Landing Page
+
+La Landing Page de FlexPal representa la primera impresión del usuario con el producto. Los elementos revisados incluyen la estructura visual, navegación y accesibilidad.
+
+- Consistencia Visual
+
+El uso de colores y tipografía es coherente con la identidad de la marca, lo que ayuda a crear una experiencia visual fluida. Sin embargo, se ha observado que algunos contrastes en el texto son insuficientes, lo que podría afectar la legibilidad, especialmente en áreas con fondos claros.
+
+- Navegabilidad y Accesibilidad
+
+La navegación de la Landing Page es clara, con enlaces y botones dispuestos de manera lógica. No obstante, la implementación de etiquetas ARIA es mínima, lo que dificulta la accesibilidad para personas con discapacidades visuales o motoras. La integración de un menú de navegación más accesible y de un botón de búsqueda podría mejorar la experiencia.
+
+-Recomendaciones
+
+- Aumentar el contraste entre el texto y el fondo en áreas clave de la Landing Page.
+- Implementar más etiquetas ARIA para mejorar la accesibilidad.
+- Añadir un botón de búsqueda accesible para mejorar la interacción con el usuario.
+
+#### 2. Frontend de la Aplicación Web
+
+El frontend de la plataforma se evaluó en términos de claridad en el diseño, organización de la información y usabilidad.
+
+- Arquitectura de la Información
+
+Los elementos clave en la interfaz del frontend están bien organizados, y los usuarios pueden navegar por las distintas secciones sin dificultad. Sin embargo, el etiquetado de algunas secciones podría ser más descriptivo para facilitar la navegación.
+
+- Claridad del Diseño y Consistencia
+
+La interfaz mantiene una coherencia visual adecuada, siguiendo las pautas de la marca. No obstante, algunos botones y menús podrían tener iconografía adicional para hacerlos más intuitivos, especialmente en dispositivos móviles.
+
+- Evaluación Inclusiva
+
+Se ha observado que el diseño no contempla completamente la diversidad de usuarios. Algunas interacciones no son tan fáciles de realizar con teclados o dispositivos de asistencia.
+
+Recomendaciones
+
+- Incluir iconografía en botones para mejorar la comprensión de las acciones.
+- Optimizar el diseño para mayor facilidad de uso en dispositivos de asistencia.
+- Mejorar la visibilidad de elementos interactivos en la interfaz.
+
+#### 3. Aplicación Móvil
+
+Si bien la plataforma FlexPal no cuenta con una aplicación móvil al momento, sería fundamental garantizar que cualquier futura implementación de una app siga los principios de consistencia y accesibilidad.
+
+- Consistencia con la Versión Web
+
+Para asegurar una experiencia de usuario coherente, es crucial que la versión móvil mantenga las mismas pautas visuales y de navegación que la web. Se recomienda la integración de elementos de diseño responsivo.
+
+- Facilidad de Navegación en Móvil
+
+La disposición de los elementos en la versión móvil debe estar optimizada para pantallas pequeñas, asegurando que las funcionalidades clave sean fácilmente accesibles en todo momento.
+
+Recomendaciones
+
+- Asegurar que el diseño de la aplicación móvil siga las pautas de la versión web para una experiencia coherente.
+- Optimizar los controles táctiles y la disposición de los elementos para una navegación fácil y rápida en dispositivos móviles.
+
+Conclusión
+La auditoría UX de la plataforma FlexPal ha revelado que, en general, se siguen principios sólidos de diseño y usabilidad. Sin embargo, existen áreas de mejora en cuanto a accesibilidad, contraste de colores y optimización de la navegación en dispositivos móviles. Implementar las recomendaciones proporcionadas ayudará a mejorar la experiencia general del usuario, asegurando que FlexPal sea accesible, fácil de usar y visualmente atractiva en todas sus plataformas.
+
+
 ### 6.4.2. Auditoría recibida.
 #### Auditoría de Experiencia de Usuario (UX)
 
