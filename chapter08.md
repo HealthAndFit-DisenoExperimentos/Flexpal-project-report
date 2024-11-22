@@ -309,4 +309,18 @@ Testing y Calidad
 
 - El uso de Experiment-Driven Development y la priorización basada en hipótesis fomentan la mejora iterativa y el aprendizaje continuo, adaptando el producto a escenarios reales.
 
+## Recomendaciones
+
+- Consideramos clave refinar los contextos delimitados existentes para garantizar que cada módulo tenga un modelo de dominio bien definido y escalable. Esto facilitará la incorporación de nuevas funcionalidades sin comprometer la arquitectura actual.
+
+- Creemos que integrar modelos de machine learning mejorará la personalización de planes de nutrición y rutinas, permitiendo ajustes dinámicos según el progreso y las preferencias individuales de los usuarios.
+
+- Es fundamental incrementar la cobertura de nuestras pruebas automáticas, priorizando flujos end-to-end. Además, proponemos implementar monitoreo en tiempo real para identificar y resolver incidentes proactivamente.
+
+- Para fortalecer nuestra comunidad, sugerimos crear foros o espacios dentro de la app donde los miembros puedan compartir logros, recetas o consejos. Esto aumentará el sentido de pertenencia y la fidelidad hacia la plataforma.
+
+- Planeamos seguir utilizando el enfoque Experiment-Driven Development para validar y priorizar características basándonos en datos. Esto garantizará que cada nuevo desarrollo aporte valor tangible a nuestros usuarios.
+
+
+
 
