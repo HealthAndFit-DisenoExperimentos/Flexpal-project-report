@@ -10,16 +10,16 @@ Entre sus funcionalidades destacadas se encuentran la gestión de sesiones en l�
 
 ### 8.1.2 Raw Material: Documentar asunciones, ideas y brechas de conocimiento.
 **Assumptions**
-- La plataforma FlexPal debe mostrar un seguimiento detallado de los horarios de las sesiones.
+- La plataforma FlexPal debe permitir un seguimiento detallado y en tiempo real de los horarios de las sesiones de los usuarios, incluyendo variaciones en tiempo y tipo de ejercicio.
 
 **Knowlegde Gaps**
-- ¿Qué tan efectiva es la herramienta de análisis de datos para las personas en sus sesiones?
+- ¿Cómo impacta la herramienta de análisis de datos en la efectividad de las sesiones para los usuarios? ¿Está mejorando realmente el rendimiento de los usuarios según los datos recolectados?
 
 **Ideas**
-- Integración de inteligencia artificial, de este modo esta herramienta puede ofrecer recomendaciones más precisas y personalizadas sobre ejercicios recomendados, horario de sesiones y dietas sugeridas, basadas en el análisis de datos en tiempo real.
+- Integrar inteligencia artificial para personalizar las recomendaciones de ejercicios, horarios de sesiones y planes de dieta basados en análisis de datos en tiempo real. Esto proporcionaría sugerencias más precisas y ajustadas al progreso y necesidades individuales de cada usuario.
 
 **Claims**
-- La plataforma necesita mejorar su capacidad para manejar grandes volúmenes de datos y usuarios mientras crecen.
+- La plataforma debe mejorar su capacidad para gestionar grandes volúmenes de datos y usuarios concurrentes sin sacrificar el rendimiento, especialmente conforme crece la base de usuarios.
 
 ### 8.1.3 Experiment-Ready Questions: Formular preguntas clave para los experimentos.
 - ¿Qué estrategias de marketing digital son más efectivas para aumentar la visibilidad y atraer nuevos clientes a los entrenadores que utilizan FlexPal?
