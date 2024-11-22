@@ -237,7 +237,32 @@ Proceso de Monitoreo y Análisis:
 - **3. Análisis de Datos:** Evaluar los datos recopilados para identificar patrones y tendencias. Comparar los resultados con los objetivos establecidos.
 - **4. Feedback de Usuarios:** Revisar los comentarios y sugerencias de los cuestionarios enviados a los usuarios.
 - **5. Iteración y Mejora:** Basado en el análisis de datos y feedback, realizar ajustes y mejoras en las funcionalidades experimentales.
-## 8.3
+## 8.3. Experimentation
+
+### 8.3.1. To-Be User Stories
+
+### 8.3.2. To-Be Product Backlog
+
+### 8.3.3. Pipeline-supported, Experiment-Driven To-Be Software Platform Lifecycle 
+
+#### 8.3.3.1. To-Be Sprint Backlogs 
+
+#### 8.3.3.2. Implemented To-Be Landing Page Evidence 
+
+#### 8.3.3.3. Implemented To-Be Frontend-Web Application Evidence 
+
+#### 8.3.3.4. Implemented To-Be Native-Mobile Application Evidence 
+
+#### 8.3.3.5. Implemented To-Be RESTful API and/or Serverless Backend Evidence 
+
+### 8.3.3.6. Team Collaboration Insights 
+
+### 8.3.4. To-Be Validation Interviews 
+
+#### 8.3.4.1. Diseño de Entrevistas. 
+
+#### 8.3.4.2. Registro de Entrevistas. 
+
 ## 8.4. Experiment Aftermath & Analysis
 
 Esta sección se enfoca en los resultados y aprendizajes obtenidos tras realizar el experimento. El objetivo principal es interpretar los datos recolectados y priorizar ajustes o refinamientos basados en estos resultados.
