@@ -243,7 +243,15 @@ Esta sección se centra en analizar los resultados obtenidos de los experimentos
 
 ### 8.3.1. To-Be User Stories
 
+#### Historia de Usuario 2: Como usuario registrado, quiero iniciar sesión de manera segura para acceder a mis planes y métricas de progreso.
+
 ### 8.3.2. To-Be Product Backlog
+
+#### Epic 1: Registro y Autenticación
+
+Historia de Usuario: Implementar una funcionalidad de registro con validación de datos (e.g., email único, contraseñas seguras).
+Historia de Usuario: Crear flujos para recuperación de contraseña.
+
 
 ### 8.3.3. Pipeline-supported, Experiment-Driven To-Be Software Platform Lifecycle 
 
@@ -251,19 +259,22 @@ Esta sección se centra en analizar los resultados obtenidos de los experimentos
 
 #### 8.3.3.2. Implemented To-Be Landing Page Evidence 
 
+![Landing Evidence](assets/img/LandingPageEvidence.JPG)
+
 #### 8.3.3.3. Implemented To-Be Frontend-Web Application Evidence 
 
-#### 8.3.3.4. Implemented To-Be Native-Mobile Application Evidence 
+![FrontEnd Evidence1](assets/img/FrontEndEvidence1.JPG)
+![FrontEnd Evidence2](assets/img/FrontEndEvidence2.JPG)
 
 #### 8.3.3.5. Implemented To-Be RESTful API and/or Serverless Backend Evidence 
 
+![Backend Evidence1](assets/img/BackendEvidence1.JPG)
+![Backend Evidence2](assets/img/BackendEvidence2.JPG)
+
 ### 8.3.3.6. Team Collaboration Insights 
 
-### 8.3.4. To-Be Validation Interviews 
+![Backend Evidence2](assets/img/TeamColaborationInsights.JPG)
 
-#### 8.3.4.1. Diseño de Entrevistas. 
-
-#### 8.3.4.2. Registro de Entrevistas. 
 
 ## 8.4. Experiment Aftermath & Analysis
 
