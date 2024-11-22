@@ -166,6 +166,87 @@ SecurityHeaders:
 
 ### 6.3.3. Evaluaciones según heurísticas.
 
+Reporte de Evaluación Heurística - FlexPal
+Información General
+Producto Evaluado: Landing Page FlexPal
+Fecha de Evaluación: 15/11/2024
+Evaluadores: HealthAndFit
+
+#### Heurísticas Evaluadas
+
+**Visibilidad del estado del sistema**
+
+- Evaluación: La página proporciona retroalimentación clara sobre las opciones disponibles, pero no se detalla el estado de suscripciones o interacciones una vez que el usuario realiza una acción importante, como suscribirse.
+
+- Recomendación: Incluir una notificación visible sobre el estado del proceso de suscripción.
+
+**Correspondencia entre el sistema y el mundo real**
+
+- Evaluación: El lenguaje utilizado en la página es claro y accesible. Se usan términos comunes que resuenan con la temática de salud y bienestar, lo cual facilita la comprensión.
+
+- Recomendación: Mantener la terminología clara y accesible en todo el sitio.
+
+**Control y libertad del usuario**
+
+- Evaluación: No se observan opciones claras para deshacer o cancelar una acción una vez realizada, como al seleccionar una suscripción o llenar un formulario.
+
+- Recomendación: Incorporar botones de cancelación o deshacer para dar mayor control al usuario.
+
+**Consistencia y estándares**
+
+- Evaluación: El diseño es coherente a lo largo de toda la página. Los elementos visuales y la estructura son consistentes, lo que contribuye a una navegación fluida.
+
+- Recomendación: Continuar utilizando una estructura de diseño consistente en futuras actualizaciones.
+
+**Prevención de errores**
+
+Evaluación: Aunque no se identifican riesgos graves de errores, los formularios no incluyen validación en tiempo real, lo que podría permitir errores de entrada.
+
+Recomendación: Implementar validación en los formularios para evitar errores y mejorar la experiencia del usuario.
+
+**Reconocimiento antes que recuerdo**
+
+- Evaluación: Los elementos importantes, como los planes y opciones de suscripción, están claramente visibles y accesibles, lo que permite un fácil reconocimiento sin necesidad de recordar opciones previas.
+
+- Recomendación: Asegurarse de que los elementos clave siempre estén fácilmente accesibles y visibles.
+
+**Flexibilidad y eficiencia de uso**
+
+- Evaluación: Los planes de suscripción ofrecen opciones adecuadas para diferentes tipos de usuarios. Sin embargo, no se detecta una personalización avanzada para usuarios con necesidades específicas.
+
+- Recomendación: Incluir más opciones de personalización para mejorar la flexibilidad y eficiencia de uso.
+
+**Estética y diseño minimalista**
+
+- Evaluación: El diseño es limpio, claro y libre de distracciones innecesarias, lo que permite que el usuario se enfoque en los elementos clave de la página.
+
+- Recomendación: Mantener este diseño minimalista para asegurar una experiencia de usuario fluida.
+
+**Ayuda y documentación**
+
+- Evaluación: La página incluye una sección de contacto, pero no ofrece una ayuda inmediata, como un chat en vivo o una base de conocimiento para resolver dudas rápidamente.
+
+- Recomendación: Incluir una opción de soporte en tiempo real, como un chat en vivo, para mejorar la asistencia al usuario.
+
+**Resumen de Resultados**
+
+Problemas principales encontrados:
+
+- Falta de retroalimentación visible sobre el estado de la suscripción tras la acción del usuario.
+
+- Ausencia de opciones claras para deshacer o cancelar interacciones.
+
+- Validación insuficiente en los formularios de entrada.
+
+Recomendaciones clave:
+
+- Mejorar la visibilidad del estado de las suscripciones.
+
+- Incluir botones para deshacer o cancelar acciones.
+
+- Implementar validación en los formularios y mejorar la asistencia en tiempo real.
+
+
 ## 6.4. Auditoría de Experiencias de Usuario
 ### 6.4.1. Auditoría realizada.
 ### 6.4.2. Auditoría recibida.
