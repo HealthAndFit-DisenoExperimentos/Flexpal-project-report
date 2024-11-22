@@ -339,6 +339,18 @@ En esta fase, se creará un video promocional que resuma el modelo de negocio, c
 
 - Planeamos seguir utilizando el enfoque Experiment-Driven Development para validar y priorizar características basándonos en datos. Esto garantizará que cada nuevo desarrollo aporte valor tangible a nuestros usuarios.
 
+- Continuar con el enfoque Experiment-Driven Development para asegurar que cada nueva característica sea validada mediante datos reales, permitiendo priorizar las funciones que realmente aporten valor y mejoren la experiencia del usuario.
+
+- Ampliar la integración con dispositivos wearables y de fitness, como relojes inteligentes o bandas de actividad, lo que permitirá un seguimiento automático y preciso de métricas como el ritmo cardíaco, calorías quemadas, y calidad del sueño, enriqueciendo la personalización de los planes de salud.
+
+- Introducir elementos de gamificación, tales como desafíos, recompensas y tablas de clasificación, para incrementar la motivación y el compromiso de los usuarios. Estos elementos fomentarán una interacción constante con la plataforma y una competencia saludable entre los miembros.
+
+- Aumentar las medidas de seguridad, implementando encriptación avanzada para proteger la información personal y de salud de los usuarios. Además, se deben seguir prácticas de privacidad estrictas, como auditorías regulares y transparencia en el manejo de datos.
+
+- Desarrollar una API abierta que permita la integración con soluciones externas como nutricionistas, gimnasios o aplicaciones complementarias, lo que expandirá la funcionalidad de FlexApp y permitirá a los usuarios acceder a una mayor variedad de servicios.
+
+- Fomentar la formación continua del equipo, asegurando que todos los miembros se mantengan actualizados con las últimas tendencias tecnológicas y metodologías ágiles, garantizando que la plataforma siga siendo competitiva y capaz de enfrentar nuevos desafíos.
+
 
 ### Anexos
 - Anexo 1: [Organización en GitHub](https://github.com/los-seniors-v2)
