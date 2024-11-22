@@ -287,4 +287,26 @@ Experiencia del Usuario (UX)
 Testing y Calidad
 - Pruebas: Rigurosas de seguridad y rendimiento realizadas con selenium y con jenkins.
 
-## 8.6
+## 8.6. To-Be Software Platform Pre-launch
+
+### 8.6.1. Abouth-the-Product Intro Video
+ 
+	youtube: https://youtu.be/dNG-wDpqw_Q
+
+## Conclusiones
+
+- FlexApp combina tecnología y fitness, ofreciendo planes de nutrición, rutinas adaptadas y entrenadores especializados, revolucionando la experiencia fitness.
+
+- FlexApp fue sometida a pruebas exhaustivas de código y seguridad, asegurando una plataforma estable, confiable y protegida contra vulnerabilidades.
+
+- El desarrollo de FlexApp utilizó principios de Domain-Driven Design (DDD), asegurando que la lógica de negocio refleje fielmente las necesidades del dominio fitness, facilitando escalabilidad y flexibilidad.
+
+- Se realizaron pruebas exhaustivas, incluyendo validaciones unitarias y de integración, garantizando un sistema robusto y alineado con las reglas del dominio fitness.
+
+- La personalización dinámica y la adaptabilidad de FlexApp fueron posibles gracias al enfoque en casos de uso específicos del dominio, asegurando una experiencia centrada en el cliente.
+
+- Herramientas como User Personas, Empathy Mapping, y Journey Mapping aseguran que las soluciones desarrolladas estén profundamente conectadas con las expectativas y problemas de los usuarios.
+
+- El uso de Experiment-Driven Development y la priorización basada en hipótesis fomentan la mejora iterativa y el aprendizaje continuo, adaptando el producto a escenarios reales.
+
+
