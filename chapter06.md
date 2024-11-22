@@ -124,8 +124,7 @@ SecurityHeaders:
 
 ### 6.2.2 Reviews: 
 
-
-
+En esta sección, se realizan revisiones exhaustivas de FlexPal para evaluar su efectividad, facilidad de uso y satisfacción general de los usuarios. Estas revisiones incluyen pruebas de funcionalidades clave como las rutinas personalizadas de ejercicio, los planes de nutrición adaptados y el seguimiento de progreso. A través de encuestas, análisis de métricas de uso y entrevistas con usuarios finales y expertos en fitness, se identifican tanto los puntos fuertes como las áreas que requieren ajustes, asegurando una experiencia óptima antes del lanzamiento final del producto.
 
 
 
