@@ -1,5 +1,8 @@
 # **Capítulo VIII: Experiment-Driven Development**
 ## 8.1 Experiment Planning
+
+En esta fase, se definirán los objetivos, hipótesis y métricas clave para los experimentos, estableciendo un plan claro para evaluar el desempeño y los resultados de la plataforma antes del lanzamiento.
+
 ### 8.1.1 As-Is Summary: Redactar un resumen del estado actual del producto.
 FlexPal es una plataforma integral diseñada para optimizar la gestión de ejercicios y actividades físicas. Su propósito principal es proporcionar a los entrenadores las herramientas necesarias para gestionar sus operaciones diarias de manera eficiente, mejorar su competitividad y facilitar su crecimiento en un mercado cada vez más globalizado.
 
