@@ -39,6 +39,9 @@ plataforma y poder tomar decisiones informadas.
 | HYPOTHESIS | Si logramos que aumenten la cantidad de usuarios que deciden hacer una subscripción online en un 10%, entonces podemos incrementar las ventas en un 5% |
 
 ## 8.2 Experiment Design
+
+En esta sección, diseñaremos experimentos para validar nuestras hipótesis, probaremos cambios específicos en el producto y analizaremos los resultados para tomar decisiones informadas sobre futuras mejoras.
+
 ### 8.2.1 Hypotheses
 <table border="1" style="text-align: center;">
 	<tbody>
